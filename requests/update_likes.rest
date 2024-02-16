@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/blogs/65bdf44c1a91f0c335cac46f
+Content-Type: application/json
+
+{
+    "title": "xzxcvxc",
+    "author": "asdf",
+    "url": "asdf://asdf.asdf",
+    "likes": 3
+}
